@@ -25,7 +25,7 @@ CONTACT ME when you need something!
 
 If you have a question, you can call or text me at 612-293-9129. You can also book a time to meet me in my LiveLesson room with this website here: [https://jasweeney.youcanbook.me](https://jasweeney.youcanbook.me) 
 
-[What is a LiveLesson room anyway?](whats-a-live-lesson-room)
+[What is a LiveLesson room anyway?]({{ site.baseurl }}/whats-a-livelesson-room)
 
 Looking forward to this semester! 
 
