@@ -4,7 +4,7 @@ title: "Mr. Sweeney's Biology Announcements"
 description: "Mr. Sweeney's Biology announcements"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/eye.png'
-baseurl: "/biology-announcments"
+baseurl: "/biology-announcements"
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
