@@ -11,7 +11,7 @@ All of your teachers here at Minnesota Connections Academy have a virtual classr
 
 The image above is what a LL room looks like.
 
-**But my LL room is also a great place to meet one on one.** If you have a question, you can stop by my LiveLesson room (best to book a meeting here: (jasweeney.youcanbook.me)[https://jasweeney.youcanbook.me]). Think of coming to my LL room like stopping by a teacher’s office in a traditional school.
+**But my LL room is also a great place to meet one on one.** If you have a question, you can stop by my LiveLesson room (best to book a meeting here: [jasweeney.youcanbook.me](https://jasweeney.youcanbook.me)). Think of coming to my LL room like stopping by a teacher’s office in a traditional school.
 
 My LiveLesson room is a great place to meet if you have questions because:
 * We can use our microphones to speak with each other.
