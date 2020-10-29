@@ -27,6 +27,6 @@ Now, think about this question and write a response:
 
 Note - you can write your answer casually. Imagine you are describing what you learned from this video to a friend.
 
-Send me the answer to this question in [webmail](https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770) in order to earn points back on the quiz. As always, [you can book a meeting with me to work on this together.](www.jasweeney.youcanbook.me)
+Send me the answer to this question in [webmail](https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770) in order to earn points back on the quiz. As always, [you can book a meeting with me to work on this together.](https://jasweeney.youcanbook.me)
 
 
