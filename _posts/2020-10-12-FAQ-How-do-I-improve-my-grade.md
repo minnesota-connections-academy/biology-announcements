@@ -4,6 +4,7 @@ title: "FAQ: How do I improve my grade"
 author: mr-sweeney
 categories: [ Announcements ]
 tags: [ ]
+image: https://images.unsplash.com/photo-1544208757-ddbaebce244e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80
 ---
 
 Good morning wonderful Biology students,

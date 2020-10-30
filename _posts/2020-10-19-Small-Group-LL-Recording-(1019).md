@@ -3,7 +3,8 @@ layout: post
 title: "Small Group LL Recording (10/19)"
 author: mr-sweeney
 categories: [ Announcements ]
-tags: [ ]
+tags: [ Unit 2 Lesson 2 ]
+image: assets\images\unit2-lesson2-recording.JPG
 ---
 
 Hello Biology students,

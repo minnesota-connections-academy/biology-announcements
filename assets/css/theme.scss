@@ -236,6 +236,7 @@ img, img:hover {
     grid-template-rows: 1fr;
     grid-gap: 30px;
 }
+
 .blog-grid-item {  
     color: #333;
     padding: 0;
@@ -293,41 +294,6 @@ img, img:hover {
         height:240px;
         width:100%;
         object-position:top;
-    }
-}
-.firstpage {
-    .blog-grid-item:nth-child(1) {
-        grid-column-start: 1;
-        grid-column-end: 3;
-        grid-row-start: 1;
-        grid-row-end: 3;
-        flex-direction: column;  
-        align-items: flex-start;
-        font-size: 1em;
-        padding:0;
-        .card-title {
-            font-size:28px;
-        }
-        .img-thumb {
-            object-fit:cover;
-            height:400px;
-            width:100%;
-            object-position:top;
-        }
-    }
-
-    .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
-
-        .img-thumb {
-            object-fit:cover;
-            height:160px;
-            width:100%;
-            object-position:top;
-        }
-        .card-title {
-            font-size:18px;
-            line-height:1.5;
-        }      
     }
 }
 

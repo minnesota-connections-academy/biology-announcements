@@ -4,6 +4,7 @@ title: "Biodiversity Portfolio - YOU GOTTA READ THIS!"
 author: mr-sweeney
 categories: [Portfolios]
 tags: [Unit 2 Lesson 12]
+image: assets\images\wrong.JPG
 ---
 Sorry for the title of this post yelling at you.
 

@@ -4,7 +4,7 @@ title: "Participation Grade and Bio Help Sessions"
 author: mr-sweeney
 categories: [ Announcements ]
 tags: [ ]
-
+image: https://images.unsplash.com/photo-1589860170912-6b83cf6f8809?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80
 ---
 
 Two things.

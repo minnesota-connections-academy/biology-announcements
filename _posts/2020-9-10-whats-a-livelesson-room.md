@@ -5,6 +5,7 @@ author: mr-sweeney
 categories: [ Announcements ]
 tags: [ ]
 image: assets\images\livelesson_room_example.JPG
+image-on: true;
 ---
 
 All of your teachers here at Minnesota Connections Academy have a virtual classroom called a *LiveLesson room*. LL rooms are where we host *LL Sessions*. These are live classes - opportunities to learn from your teacher live and also to interact with other students.

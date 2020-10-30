@@ -35,8 +35,10 @@ post_class: post-template
     {% include adsense-under-header.html %}
 {% endif %}
 
+{% if page.image-on %}
 <!-- Featured Image -->
-{% include featured-image.html %}
+    {% include featured-image.html %}
+{% endif %}
 
 <!-- Content -->
 {% include article.html %}
