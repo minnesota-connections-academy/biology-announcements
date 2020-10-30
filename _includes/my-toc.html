@@ -1,0 +1,38 @@
+<hr><div><h5>Categories</h5><hr>
+
+{% for category in site.categories %}
+    <h6>{{ category[0] }}</h6>
+    <div>
+    {% assign pages_list = category[1] %}
+        {% for post in pages_list %}
+            {% if post.title != null %}
+                {% if group == null or group == post.group %}
+                    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+    </div>
+{% endfor %}
+
+<br>
+
+<hr><div><h5>Lessons with posts</h5></div><hr>
+
+{% for tag in site.tags %}
+    <h6>{{ tag[0] }}</h6>
+    <div>
+    {% assign pages_list = tag[1] %}
+        {% for post in pages_list %}
+            {% if post.title != null %}
+                {% if group == null or group == post.group %}
+                    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+    </div>
+{% endfor %}
+
