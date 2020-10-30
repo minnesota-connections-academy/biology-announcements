@@ -4,7 +4,6 @@ title: "Welcome to Biology!"
 author: mr-sweeney
 categories: [ Announcements ]
 tags: [ ]
-toc: true;
 image: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
 ---
 
