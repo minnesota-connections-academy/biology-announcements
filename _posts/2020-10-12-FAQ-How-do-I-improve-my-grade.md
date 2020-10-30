@@ -20,4 +20,4 @@ Here are couple of other things to consider about the question "How do I improve
 
 Thanks for reading! Let me know if you have any questions.
 
-Mr. Sweeney
+{% include jimmy-signature.html %}

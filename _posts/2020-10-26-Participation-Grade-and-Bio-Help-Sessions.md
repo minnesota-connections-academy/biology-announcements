@@ -20,3 +20,5 @@ Please reach out if you have any questions.
 Bye!
 
 ![Otters waving](https://media.giphy.com/media/3RBctIB0FOiHe/giphy.gif)
+
+{% include jimmy-signature.html %}

@@ -1,15 +1,12 @@
 ---
 layout: post
 title: "Welcome to Biology!"
-author: mr-sweeney
 categories: [ Announcements ]
 tags: [ ]
 image: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
 ---
 
 ### Welcome to the wonderful world of BIOLOGY!!
-
-I’m Mr. Sweeney, and I am thrilled to have you as part of my class!  
 
 All class resources and contact information can be found on the class [Message Board!](https://docs.google.com/presentation/d/e/2PACX-1vQgYKwh6Z7otnCtLliczTrL5AObiFt1U9-DiZ_uN34Tkf-MrjFHu12DGTLOKoPBDG8DaKOv7F7ptiBV/pub?start=false&loop=false&delayms=3000).
 
@@ -24,10 +21,14 @@ You can USE YOUR NOTES on assessments.  NOT the Internet.
 
 CONTACT ME when you need something! 
 
-If you have a question, you can call or text me at 612-293-9129. You can also book a time to meet me in my LiveLesson room with this website here: [https://jasweeney.youcanbook.me](https://jasweeney.youcanbook.me) 
+If you have a question, you can call or text your Biology teacher (either Ms. Johnston, Ms. Ruble, or Mr. Sweeney). You can also book a time to meet in our LiveLesson rooms.
+
+* [Book a meeting with Ms. Johnston](https://emily-johnston.youcanbook.me)
+* [Book a meeting with Ms. Ruble](http://larublemnca.youcanbook.me)
+* [Book a meeting with Mr. Sweeney](https://jasweeney.youcanbook.me)
 
 [What is a LiveLesson room anyway?]({{ site.baseurl }}/whats-a-livelesson-room)
 
-Looking forward to this semester! 
+We are looking forward to this semester!
 
-Mr. Sweeney
+Sincerely, your MNCA Biology teachers

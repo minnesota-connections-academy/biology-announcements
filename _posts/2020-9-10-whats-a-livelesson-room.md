@@ -27,3 +27,5 @@ My LiveLesson room is a great place to meet if you have questions because:
     * If we are meeting one on one or in a small group, then yes, you should. During large group LL sessions, most of the time you will not be using your microphone (unless I ask you to).
 * LiveLesson room scares me.
     * Nothing to be scared of! The LL room is the main way teachers interact with students. They’re like our virtual classrooms. I understand if you feel a bit intimidated coming to the large group LL sessions at first. If that is the case, book a meeting with me to stop by my LL room and I can give you a tour.
+
+{% include jimmy-signature.html %}

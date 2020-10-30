@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Biodiversity Portfolio - YOU GOTTA READ THIS!"
-author: mr-sweeney
+author:
 categories: [Portfolios]
 tags: [Unit 2 Lesson 12]
 image: assets\images\wrong.JPG
@@ -27,6 +27,5 @@ If you can not get these things, that is okay! You can get creative and use lego
 
 The handout that I want you to complete has fewer questions than the one that is linked to on page 3 of Lesson 12. Yay! You'll also notice there is a handy portfolio guide recording right at the top of the handout. Nice.
 
-Please let me know if you have any questions.
+Please let your Biology teacher know if you have any questions.
 
-{% include signature.html %}
