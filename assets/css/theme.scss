@@ -317,9 +317,7 @@ img, img:hover {
     }
 
     .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
-        .card-text {
-            display:none;
-        }
+
         .img-thumb {
             object-fit:cover;
             height:160px;
