@@ -1,9 +1,9 @@
 # Site
 name: "Biology Announcements"
-title: "Mr. Sweeney's Biology Announcements"
-description: "Mr. Sweeney's Biology announcements"
+title: "MNCA Biology Announcements"
+description: "MNCA Biology announcements"
 logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/eye.png'
+favicon: 'assets/images/starboy.png'
 baseurl: "/biology-announcements"
 google_analytics: ''
 disqus: ''
