@@ -29,20 +29,21 @@ post_class: post-template
     </div>
 
     {% else %}
+        {% unless page.homepage-off %}
 
-    <div class="d-flex align-items-center mt-4">
-        <div>
-            <img class="author-thumb" src="{{ site.baseurl }}\assets\images\eye.png" alt="All Bio Classes">
-        </div>            
-        <div>
-        This post is for all Bio classes. It was posted on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-        {% endif %}
-        </div>            
-    </div>
-    
+        <div class="d-flex align-items-center mt-4">
+            <div>
+                <img class="author-thumb" src="{{ site.baseurl }}\assets\images\eye.png" alt="All Bio Classes">
+            </div>            
+            <div>
+            This post is for all Bio classes. It was posted on 
+            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+            {% if page.last_modified_at %}
+            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+            {% endif %}
+            </div>            
+        </div>
+        {% endunless %}
     {% endif %}
 
 </div>

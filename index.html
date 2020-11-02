@@ -6,7 +6,9 @@ title: Home
 ================================================== -->
 <div class="blog-grid-container">
     {% for post in paginator.posts %}
+        {% unless post.homepage-off %}
         {% include postbox.html %}
+        {% endunless %}
     {% endfor %}
 </div>
 
