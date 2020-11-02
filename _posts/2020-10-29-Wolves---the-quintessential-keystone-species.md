@@ -11,13 +11,13 @@ The short answer question on Unit 2 Lesson 8 quiz was a difficult one.
 
 > Describe what happens when a keystone species is removed from an ecosystem.
 
-Actually, the problem is that the question is a bit vague. Many of you got 0 or 1 points on this question - but, to be fair, I'm grading this question pretty tough. That's because I want you to consider the *specific* details of the effects that a keystone species has on its ecosystem. Of course, we know that a keystone species is important and that it keeps its ecosystem in "balance". But what this question means to ask is *how* does it keep the ecosystem in balance.
+Many of you got 0 or 1 points on this question - but, to be fair, I'm grading this question pretty tough. That's because I want you to consider the *specific* details of the effects that a keystone species has on its ecosystem. Of course, we know that a keystone species is important and that it keeps its ecosystem in "balance". I don't want you to just give the definition of a keystone species. I want you to describe *how* a keystone species keeps its ecosystem in balance. Describe the chain of events that could occur if a keystone species were to disappear from its ecosystem.
 
 ### Here's the good news.
 
 **As always** you can earn points back on quizzes in Biology. Here's how you can with this question.
 
-Watch this video.
+First, watch this video.
 
 {% include youtube.html id='ysa5OBhXz-Q' %}
 
