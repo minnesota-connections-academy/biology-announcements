@@ -13,9 +13,9 @@ Instead of using skittles and M&M's, you will use an online simulation where you
 
 You will simply need three things:
 
-1. [To watch this small group LL recording where we worked on the alternative portfolio](http://www.connexus.com/external/livelesson/?url-path=pqguhg2tfg1w&domain=ww3.livelesson.com)
-2. [The handout for the alternative portfolio.](https://docs.google.com/document/d/1Txo0KSMtZW0XzeEovOiGvv9uwyTeObDx-iH5dE60tuI/edit?usp=sharing)
-3. [The website with the simulation](http://virtualbiologylab.org/NetWebHTML_FilesJan2016/StreamDiversityModel.html)
+1. [To watch this small group LL recording where we worked on the alternative portfolio](http://www.connexus.com/external/livelesson/?url-path=pqguhg2tfg1w&domain=ww3.livelesson.com){:target="_blank"}
+2. [The handout for the alternative portfolio.](https://docs.google.com/document/d/1Txo0KSMtZW0XzeEovOiGvv9uwyTeObDx-iH5dE60tuI/edit?usp=sharing){:target="_blank"}
+3. [The website with the simulation](http://virtualbiologylab.org/NetWebHTML_FilesJan2016/StreamDiversityModel.html){:target="_blank"}
 
 That's everything you need. But if you'd like more help, there will soon be more small group help sessions in the Bio LL room. Stay tuned to your planner and webmails!
 
