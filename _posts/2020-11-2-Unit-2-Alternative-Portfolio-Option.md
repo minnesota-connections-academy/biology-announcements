@@ -3,7 +3,7 @@ layout: post
 title: "Unit 2 Alternative Portfolio Option"
 categories: [ Portfolios ]
 tags: [ Unit 2 Lesson 12]
-image: \assets\images\unit2-alt-portfolio.jpg
+image: assets\images\unit2-alt-portfolio.JPG
 image-on: true;
 ---
 
