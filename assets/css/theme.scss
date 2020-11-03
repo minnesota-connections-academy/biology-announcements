@@ -236,7 +236,15 @@ img, img:hover {
     grid-template-rows: 1fr;
     grid-gap: 30px;
 }
-
+.blog-important {
+    width: auto;
+    max-width: 500px;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 30px;
+}
 .blog-grid-item {  
     color: #333;
     padding: 0;

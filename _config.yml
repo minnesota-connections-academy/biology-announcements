@@ -37,9 +37,9 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
+# # Pagination 
+# paginate: 6
+# paginate_path: /page:num/
     
 # Other
 highlighter: rouge

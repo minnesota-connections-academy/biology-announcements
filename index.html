@@ -4,19 +4,30 @@ title: Home
 ---
 <!-- Posts Index
 ================================================== -->
+<hr>
+<h4>Here are the most important announcements at the moment.</h4>
+<div class="blog-important">
+    {% for post in site.posts %}
+        {% if post.important %}
+            {% include postbox.html %}
+        {% endif %}
+    {% endfor %}
+</div>
+<hr>
+<h4>Here are all of the announcements!</h4>
 <div class="blog-grid-container">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
         {% unless post.homepage-off %}
-        {% include postbox.html %}
+            {% include postbox.html %}
         {% endunless %}
     {% endfor %}
 </div>
 
 <!-- Pagination
 ================================================== -->
-<div class="bottompagination">
+<!-- <div class="bottompagination">
 <span class="navigation" role="navigation">
     {% include pagination.html %}
 </span>
 </div>
-
+ -->
