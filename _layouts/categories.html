@@ -4,19 +4,40 @@ layout: default
 permalink: "/categories.html"
 ---
 
-
+<!--All categories except How To's-->
 {% for category in site.categories %}
+{% unless category[0] == "How To" %}
 <h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h4>
 <div class="blog-grid-container">
 {% assign pages_list = category[1] %}
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
-{% include postbox.html %}
+{% include postbox-no-caption.html %}
 {% endif %}
 {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}
 {% assign group = nil %}
+{% endunless %}
+</div>
+{% endfor %}
+
+<!--How To's-->
+{% for category in site.categories %}
+{% if category[0] == "How To" %}
+<h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h4>
+<div class="blog-grid-container">
+{% assign pages_list = category[1] %}
+{% for post in pages_list %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox-no-caption.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+{% endif %}
 </div>
 {% endfor %}
