@@ -19,6 +19,8 @@ Pick either video to watch and keep these two questions in mind as you watch.
 
 {% include youtube.html id='rXlyYFXyfIM'%}
 
+<br>
+
 {% include youtube.html id='RBOsqmBQBQk'%}
 
 -Mr. Sweeney
