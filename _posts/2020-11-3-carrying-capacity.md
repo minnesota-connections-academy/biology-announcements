@@ -12,8 +12,8 @@ First we have a video from [youtube Biology teacher sensation](https://www.bozem
 
 {% include youtube.html id='rXlyYFXyfIM'%}
 
-Next is a video from my good friend (just kidding - I wish he was though) Hank Green at (Crash Course)[https://thecrashcourse.com/about]. This video covers pretty much the same thing but with more humor.
+Next is a video from my good friend (just kidding - I wish he was though) Hank Green at [Crash Course](https://thecrashcourse.com/about). This video covers pretty much the same thing but with more humor.
 
 {% include youtube.html id='RBOsqmBQBQk'%}
 
-- Mr. Sweeney
+-Mr. Sweeney
