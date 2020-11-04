@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Carrying Capacity"
+title: "Carrying Capacity - Unit 2 Lesson 13"
 categories: [ ]
 tags: [ Unit 2 Lesson 13]
 image: https://images.unsplash.com/photo-1541885835174-8cc06dd2b1ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 ---
-### Unit 2 Lesson 13
 
 Sometimes I will provide helpful videos here on the announcements page to help you better understand complicated concepts in Biology. Also, sometimes watching a video can be much more helpful than reading a long article. For example, if you don't want to read the [Scholastic GO! article on Populations and Communities](https://go.scholastic.com/I/article/444/446/4444465.html?ucn=610753097&cred=Y2FsbGN8Y2FsbGM){:target="_blank"}, you can instead watch one of the following videos.
 
