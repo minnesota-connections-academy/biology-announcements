@@ -9,7 +9,7 @@ image: https://images.unsplash.com/photo-1526951521990-620dc14c214b?ixlib=rb-1.2
 This lesson is a doozy. There are 4 articles to read in the instructions section. If you are having trouble finding the articles with the EBSCOhost database, I've included the links below for easy access:
 
 * [Just deserts: bad soil practices create a sea of sand](http://search.ebscohost.com/login.aspx?direct=true&db=mih&AN=106350423&site=ehost-live){:target="_blank"}
-* [Great Lake Effect](http://search.ebscohost.com/login.aspx?direct=true&db=mih&AN=1971457&site=ehost-live){target:="_blank"}
+* [Great Lake Effect](http://search.ebscohost.com/login.aspx?direct=true&db=mih&AN=1971457&site=ehost-live){:target:="_blank"}
 * [In Search of MIRACLES](http://search.ebscohost.com/login.aspx?direct=true&db=mih&AN=72129799&site=ehost-live){:target="_blank"}
 * [Paper threatens tigers](http://search.ebscohost.com/login.aspx?direct=true&db=nfh&AN=16PU578036637&site=ehost-live){:target="_blank"}
 
