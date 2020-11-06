@@ -6,7 +6,7 @@ tags: [ Unit 2 Lesson 16]
 image: https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/chimpanzee-public-domain-julie-ricard.jpg
 ---
 
-We all know there has been a lot of bad news lately regarding the environment. And we tend to focus on the bad news stories. Of course, its important to know about those stories. But even 2020 has its fair share of good news. Its also important to know when we make progress.
+We all know there has been a lot of bad news lately regarding the environment. And we tend to focus on the bad news stories. Of course, its important to know about those stories. But even 2020 has its fair share of good news - and it's important to know about those stories, too!
 
 Here are examples of two good news stories:
 
