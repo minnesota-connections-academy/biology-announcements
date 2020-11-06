@@ -15,7 +15,7 @@ Here are examples of two good news stories:
 
 See if you can do some brief research of your own about good environmental or ecological news. Write a summary and include your own comments about the article you found. Here is a good place to start: [Good News Network](https://www.goodnewsnetwork.org/more/about-us/){:target="_blank"}. I'll make a post sharing everyone's articles in a week or so. Oh, and extra credit for this? Possibly... but isn't reading and sharing good stories already motivation? :)
 
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCP2WLrNPFoKD80GAv4X6JPWan9Y8G3JnRpIdsd-SEjoI-vg/viewform?embedded=true" width="640" height="581" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCP2WLrNPFoKD80GAv4X6JPWan9Y8G3JnRpIdsd-SEjoI-vg/viewform?embedded=true" width="100%" height="581" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
