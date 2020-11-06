@@ -67,6 +67,10 @@ post_class: post-template
 <!-- Related Post -->
 {% include related-posts.html %}
 
+{% if page.courtesy %}
+    {% include courtesy.html %}
+{% endif %}
+
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
