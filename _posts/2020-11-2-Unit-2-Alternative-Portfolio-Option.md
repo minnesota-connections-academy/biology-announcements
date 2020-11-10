@@ -19,7 +19,7 @@ You will simply need three things:
 
 That's everything you need. But if you'd like more help, there will soon be more small group help sessions in the Bio LL room. Stay tuned to your planner and webmails!
 
-Note: I've created a shorter video guide for this portfolio which you can watch below instead of watching the LL recording that is linked above. I apologize for the poor audio quality! 
+Note: I've created a shorter video guide for this portfolio which you can watch below instead of watching the LL recording that is linked above. I apologize that the audio quality isn't great :( 
 
 {% include google-drive-player.html id="1qk8gvru90582oVtxpMak49c2mGH_ikPE"%}
 
