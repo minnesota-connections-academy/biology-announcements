@@ -26,6 +26,6 @@ As you watch, note the differences between prokaryotes and eukaryotes (there is 
 
 {% include youtube.html id="Pxujitlv8wc" %}
 
-Alright, we are starting to get a picture of what cells are. Lots of living things are multicellular - made up of lots and lots of cells. Cells are kind of like the lego pieces that make up a living thing. Your skin is made up of tons and tons of skin cells, for instance. Although, keep in mind that some living things are only made of one cell.
+Alright, we are starting to get a picture of what cells are. Most living things that we are familiar with (trees, cats, dinosaurs) are multicellular - made up of lots and lots of cells. Cells are kind of like the lego pieces that make up a living thing. Your skin is made up of tons and tons of skin cells, for instance. Although, keep in mind that some living things are only made of one cell. 
 
 That's enough for today. Tomorrow I will post a couple things to help us better grasp the size of cells.
