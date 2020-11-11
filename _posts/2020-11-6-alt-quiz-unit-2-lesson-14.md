@@ -10,7 +10,7 @@ Here is the alternative quiz option for Unit 2 Lesson 14. If you haven't done an
 
 To begin, click "Get started" below. 
 
-**Important!** Where it asks for a nickname, please instead enter your first and last name. 
+**Important:** Please enter your student ID where it asks your to enter your "nickname". [How do you know what your student ID is?](https://sweeneyscience.github.io/biology-announcements/how-find-your-student-id/)
 
 Also, this probably won't work on a phone or tablet so make sure you are on your computer when you do this quiz.
 
