@@ -22,10 +22,10 @@ Next. There are two types of living things on this Earth. Things that like scien
 
 No, just kidding. But there really are two types of living things on this Earth. We can categorize living things as either eukaryotes or prokaryotes. Literally every living thing is either one or the other. You might be surprised to know that an oak tree and a human are both in the same category!
 
-As you watch, note the differences between prokaryotes and eukaryotes (there is a t-chart ready for you to use if you are using the guided notes). Don't forget to include examples! That is the best way to remember.
+Here is another video from our beloved Amoeba Sisters discussing the difference between these two categories. As you watch, note the differences between prokaryotes and eukaryotes (there is a t-chart ready for you to use if you are using the guided notes). Don't forget to include examples! That is the best way to remember.
 
 {% include youtube.html id="Pxujitlv8wc" %}
 
-Alright, we are starting to get a picture of what cells are. Most living things that we are familiar with (trees, cats, dinosaurs) are multicellular - made up of lots and lots of cells. Cells are kind of like the lego pieces that make up a living thing. Your skin is made up of tons and tons of skin cells, for instance. Although, keep in mind that some living things are only made of one cell. 
+Alright, we are starting to get a picture of what cells are. Most living things that we are familiar with (trees, cats, dinosaurs) are multicellular - made up of lots and lots of cells. Cells are kind of like the Lego pieces that make up a living thing. Your skin is made up of tons and tons of skin cells, for instance. Although, keep in mind that some living things are only made of one cell. 
 
 That's enough for today. Tomorrow I will post a couple things to help us better grasp the size of cells.
