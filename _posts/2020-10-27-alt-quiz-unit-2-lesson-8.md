@@ -3,7 +3,7 @@ layout: post
 title: "Alternative Quiz - Unit 2 Lesson 8"
 categories: [ Alternative Quizzes ]
 tags: [ Unit 2 Lesson 8 ]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Animal_Cell_Unannotated.svg/800px-Animal_Cell_Unannotated.svg.png
+image: https://upload.wikimedia.org/wikipedia/commons/1/11/American_Beaver%2C_tree_cutting.jpg
 ---
 You may take the alternative quiz for Unit 2 Lesson 8 if you prefer.
 
