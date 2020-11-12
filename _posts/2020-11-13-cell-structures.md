@@ -19,9 +19,7 @@ First off, Ms. Ruble's [LiveLesson this week](http://www.connexus.com/external/l
 These three videos from Khan Academy are already on slide 3 of this lesson but, for your convenience, I will link to them again here.
 
 * [The Nucleus](https://www.khanacademy.org/test-prep/mcat/cells/eukaryotic-cells/v/the-nucleus)
-
 * [Organelles in Eukaryotic Cells](https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-eukaryotic-cell-structures/v/organelles-in-eukaryotic-cells)
-
 * [Overview of Animal and Plant Cells](https://www.khanacademy.org/science/biology/structure-of-a-cell/cytoskeleton-junctions-and-extracellular-structures/v/overview-of-animal-and-plant-cells)
 
 The Amoeba Sisters have a fun overview of cells as well. 
