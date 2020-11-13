@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FAQ: How do I improve my grade"
+title: "Unit 1 Test Review"
 author: mr-sweeney
 categories: [ Announcements ]
 tags: [ ]
@@ -15,8 +15,8 @@ I appreciate that many of you are dedicated to improving your grade and therefor
 
 Here are couple of other things to consider about the question "How do I improve my grade?"
 
-- Keep in mind that I am still working on transferring your grades from the previous course. This likely means that your grades looks somewhat lower than it should.
-- We are very early in the course. Even if you did not do splendidly on your Unit 1 Test, as you continue to work through Biology your grade will likely improve. Your Unit 1 Test will not end up counting much towards your final grade.
+- Keep in mind that I am still working on transferring your grades from the previous course. This likely means that your grade looks somewhat lower than it should.
+- We are very early in the course. Even if you did not do splendidly on your Unit 1 Test, your grade will likely improve as you continue to work through the course. Your Unit 1 Test will not end up counting much towards your final grade.
 
 Thanks for reading! Let me know if you have any questions.
 
