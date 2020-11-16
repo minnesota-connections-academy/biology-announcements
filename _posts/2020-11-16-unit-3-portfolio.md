@@ -4,11 +4,12 @@ title: "Important! The Unit 3 Portfolio"
 image: assets\images\unit-3-wrong.JPG
 categories: [ Portfolios ]
 tags: [ Unit 3 Lesson 4 ]
+important: true;
 ---
 
 Please make sure you read this before starting your Unit 3 portfolio assignment.
 
-Here is [the handout for the Unit 3 portfolio](https://docs.google.com/document/d/1AAoY7iBGA2Cwb1KhkFX5upSSeWSTDIFb22MXZtrDKM8/edit?usp=sharing).
+Here is [the handout for the Unit 3 portfolio](https://docs.google.com/document/d/1AAoY7iBGA2Cwb1KhkFX5upSSeWSTDIFb22MXZtrDKM8/edit?usp=sharing){:target="_blank"}.
 
 Do not use the handout that is in the lesson!
 
