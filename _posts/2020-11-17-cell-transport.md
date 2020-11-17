@@ -20,6 +20,11 @@ Whether you are an amoeba or a human, your cells need stuff. There are two main 
 
 Lesson 3 has a lot of information and activities. It is okay if you don't complete it all in one day. There already are good videos in the lesson as well as two Gizmos. These are great resources and make sure to spend some time with them. I've link to them here again for your convenience.
 
+* [Diffusion Gizmo](http://www.connexus.com/external/gizmos/default.aspx?idMedia=70933){:target="_blank"}
+* [Osmosis Gizmo](http://www.connexus.com/external/gizmos/default.aspx?idMedia=70940){:target="_blank"}
+* [Passive Transport - BrainPOP](http://www.brainpop.com/user/loginDo.weml?dXNlcm5hbWU9Y29ubmVjdGlvbnNhY2FkZW15JnBhc3N3b3JkPXNjaG9vbCZ0YXJnZXRQYWdlPS9zY2llbmNlL2NlbGx1bGFybGlmZWFuZGdlbmV0aWNzL3Bhc3NpdmV0cmFuc3BvcnQv){:target="_blank"}
+* [Active Transport - BrainPOP](http://www.brainpop.com/user/loginDo.weml?user=connectionsacademy&password=school&targetPage=/science/cellularlifeandgenetics/activetransport/zoom.weml){:target="_blank"}
+
 ### Other resources
 
 Finally, here are some extra helpful resources that you can check out if you wish.
