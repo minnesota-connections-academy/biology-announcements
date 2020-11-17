@@ -38,6 +38,8 @@ Mr. Sweeney's recording is below
 
 {% include google-drive-player.html id="15YNczsfEsgpwCXZ8K5qZD9Ywr2l32Gkg"%}
 
+### Other Helpful Videos
+
 Finally, here are two other videos that are helpful for this lab and lesson:
 
 {% include youtube.html id="5ZnrEA2J6Gg" %}
