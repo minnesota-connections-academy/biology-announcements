@@ -12,7 +12,7 @@ Some living things are just one cell. The lonely amoeba lives its life as a sing
 
 But more complex living things, like a human, are made up of many cells. Trillions upon trillions of cells. All those cells are living things - just like the amoeba is a living thing. So you can sort of think of your body as trillions of little living things all cooperating together to make up you. Fun!
 
-Whether you are an amoeba or a human, your cells need stuff. There are two main questions I want you to focus on for this lesson.
+Whether you are an amoeba or a human, your cells need stuff. And that's the point of this lesson. Living things need stuff. So with that in mind, there are two main questions I want you to focus on for this lesson.
 
 > What types of things does a cell need to transport into and out of itself? More specifically, what *molecules* does a cell need to transport in and out?
 >
