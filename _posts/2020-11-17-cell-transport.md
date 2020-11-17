@@ -18,7 +18,7 @@ Whether you are an amoeba or a human, your cells need stuff. And that's the poin
 >
 > Do cells transport all types of molecules the same way? (Hint - no, they don't.) Why are there different modes of transportation?
 
-Lesson 3 has a lot of information and activities. It is okay if you don't complete it all in one day. There already are good videos in the lesson as well as two Gizmos. These are great resources and make sure to spend some time with them. I've link to them here again for your convenience.
+Lesson 3 has a lot of information and activities. It is okay if you don't complete it all in one day. There already are good videos in the lesson as well as two Gizmos. These are great resources and make sure to spend some time with them. I've linked to them here again for your convenience.
 
 * [Diffusion Gizmo](http://www.connexus.com/external/gizmos/default.aspx?idMedia=70933){:target="_blank"}
 * [Osmosis Gizmo](http://www.connexus.com/external/gizmos/default.aspx?idMedia=70940){:target="_blank"}
@@ -46,3 +46,5 @@ A few animations from the Amoeba Sisters
 ![Cell Transport Summary](https://www.amoebasisters.com/uploads/2/1/9/0/21902384/cell-transport-gif_orig.gif)
 
 ![Osmosis](https://www.amoebasisters.com/uploads/2/1/9/0/21902384/passive-transport-osmosis-gif-v2_orig.gif)
+
+-Mr. Sweeney

@@ -6,9 +6,9 @@ categories: [Portfolios]
 tags: [Unit 2 Lesson 12]
 image: assets\images\wrong.JPG
 ---
-Sorry for the title of this post yelling at you.
-
 [Note - you also have the choice to complete the alternative portfolio if you prefer.]({{site.baseurl}}/Unit-2-Alternative-Portfolio-Option)
+
+Sorry for the title of this post yelling at you.
 
 But, quickly, here are some very important things about the portfolio assignment in Unit 2 Lesson 12.
 
