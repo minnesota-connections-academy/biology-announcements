@@ -24,5 +24,5 @@ Okay, on to the more interesting examples. Once again, the Amoeba Sisters give u
 >
 > Does a thermostat maintain homeostasis for a home? Explain the negative feedback loop of a thermostat.
 
-{% include youtube.html id'"Iz0Q9nTZCw4"%}
+{% include youtube.html id="Iz0Q9nTZCw4"%}
 
