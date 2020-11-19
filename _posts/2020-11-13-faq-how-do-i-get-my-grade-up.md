@@ -6,7 +6,7 @@ tags: [ ]
 image: https://pixy.org/src/414/4145137.png
 ---
 
-A very frequent question us teachers get is, "Hey Ms. Ruble/Ms. Johnston/Mr. Sweeney, how do I improve my grade?"
+A very frequent question we teachers get is, "Hey Ms. Ruble/Ms. Johnston/Mr. Sweeney, how do I improve my grade?"
 
 First off, we are very happy that you want to improve your grade, because that means you want to learn more about Biology. But before you ask how you can improve your grade, make sure that you have done everything listed here.
 
