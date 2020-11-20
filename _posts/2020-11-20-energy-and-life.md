@@ -15,5 +15,5 @@ In Unit 2, we were looking at the "big" picture. In the upcoming lessons, we wil
 
 This video from Khan Academy gives us a preview of photosynthesis and cellular respiration.
 
-(% include youtube.html id="KwNe9x0eChs" %)
+{% include youtube.html id="KwNe9x0eChs" %}
 
