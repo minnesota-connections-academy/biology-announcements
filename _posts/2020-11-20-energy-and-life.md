@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Energy for Life"
+title: "Energy and Life"
 categories: [ ]
 tags: [ Unit 3 Lesson 6 ]
 image: https://images.unsplash.com/photo-1590759570941-b464cbb54042?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80
