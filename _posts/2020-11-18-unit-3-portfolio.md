@@ -40,9 +40,15 @@ Mr. Sweeney's recording is below
 
 ### Other Helpful Videos
 
-Finally, here are two other videos that are helpful for this lab and lesson:
+Finally, here are three other videos that are helpful for this lab and lesson. The first video was made by me and goes over the concept of surface area to volume ratio.
+
+{% include google-drive-player.html id="1k8yiebV8O9k9IcJbaRRQ9F-olBsK9l4x" %}
+
+<br>
 
 {% include youtube.html id="5ZnrEA2J6Gg" %}
+
+<br>
 
 {% include youtube.html id="CNkP4rycLbI" %}
 
