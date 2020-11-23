@@ -10,16 +10,16 @@ Watch *one* of the following videos for help with better understanding the proce
 
 A broad overview:
 
-{% youtube.html id="eo5XndJaz-Y"%}
+{% include youtube.html id="eo5XndJaz-Y" %}
 
 An overview, but with some more details:
 
-{% youtube.html id="uixA8ZXx0KU"%}
+{% include youtube.html id="uixA8ZXx0KU" %}
 
 And two options with a lot of details. One from Crash Course:
 
-{% youtube.html id="sQK3Yr4Sc_k"%}
+{% include youtube.html id="sQK3Yr4Sc_k" %}
 
 And one from Bozeman Science:
 
-{% youtube.html id="g78utcLQrJ4"%}
+{% include youtube.html id="g78utcLQrJ4" %}
