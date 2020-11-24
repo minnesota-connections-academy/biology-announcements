@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photosynthesis"
+title: "Photosynthesis - Unit 3 Lesson 7"
 categories: [ ]
 tags: [ Unit 3 Lesson 7 ]
 image: https://images.unsplash.com/photo-1416816901131-9e5eab64c1c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
@@ -16,10 +16,4 @@ An overview, but with some more details:
 
 {% include youtube.html id="uixA8ZXx0KU" %}
 
-And two options with a lot of details. One from Crash Course:
-
-{% include youtube.html id="sQK3Yr4Sc_k" %}
-
-And one from Bozeman Science:
-
-{% include youtube.html id="g78utcLQrJ4" %}
+[Explore this Gizmo to practice your understanding of the overview of photosynthesis.](http://www.connexus.com/external/gizmos/default.aspx?idMedia=174738){:target="_blank"}

@@ -7,15 +7,15 @@ permalink: "/tags.html"
 
 <div class="blog-grid-container">
 {% for tag in site.tags reversed %}
-{% assign pages_list = tag[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-{% include postbox-lessons.html %}
-{% endif %}
-{% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
+  {% assign pages_list = tag[1] %}
+  {% for post in pages_list %}
+    {% if post.title != null %}
+      {% if group == null or group == post.group %}
+        {% include postbox-lessons.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% assign pages_list = nil %}
+  {% assign group = nil %}
 {% endfor %}
 </div>
