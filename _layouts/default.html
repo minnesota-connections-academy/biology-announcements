@@ -70,12 +70,10 @@ ga('send', 'pageview');
     <!-- Site Logo/Name
     ================================================== -->
     <!--Banner-->
-    <img src= "{{ site.baseurl }}\assets\images\banner.JPG">
-    <br>
-   
-    <a class="navbar-brand" href="{{ site.baseurl }}/">Home
-    </a>
-   
+    {% if page.url == '/' %}
+        <img style="margin-bottom: 30px" src= "{{ site.baseurl }}\assets\images\banner.JPG">
+        <br>
+    {% endif %}
 
     <!-- Site Tag
     ================================================== -->
