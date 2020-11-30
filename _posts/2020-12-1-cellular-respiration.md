@@ -7,13 +7,13 @@ image: https://storage.needpix.com/rsynced_images/cheetah-2859581_1280.jpg
 image-on: true;
 ---
 
-We've been zoomed in cells for a while so let's zoom back out for a minute. Cheetahs are pretty incredible living things - I'm sure you've heard how [they can run as fast as 70 miles per hour](https://blog.nationalgeographic.org/2017/12/11/cheetahs-fast-facts-about-worlds-fastest-cat/){:target="_blank"}. They are finely tuned sprinting machines - just like sports cars are finely tuned fast driving machines. And also like cars, the cheetah needs fuel in order to run. The cheetah gets its power from its legs, of course, and the legs are made of muscle tissue the muscle tissue is made of a whole bunch of muscle cells. Ultimately, those muscle cells need fuel in order to keep working and allow the cheetah to be the champion sprinter that it is.
+We've been zoomed in on cells for a while so let's zoom back out for a minute. Cheetahs are pretty incredible living things - I'm sure you've heard how [they can run as fast as 70 miles per hour](https://blog.nationalgeographic.org/2017/12/11/cheetahs-fast-facts-about-worlds-fastest-cat/){:target="_blank"}. They are finely tuned sprinting machines - just like sports cars are finely tuned fast driving machines. And also like cars, the cheetah needs fuel in order to run. The cheetah gets its power from its legs, of course, and the legs are made of muscle tissue the muscle tissue is made of a whole bunch of muscle cells. Ultimately, those muscle cells need fuel in order to keep working and allow the cheetah to be the champion sprinter that it is.
 
-Besides for sprinting, cells need a source of energy to do all sorts of things - to grow, replicate, repair, transport nutrients in, transport wastes out, and all sorts of other things. Here is one of my favorite examples - this is an animation of a "motor protein" transporting a vesicle across a cell (we zoomed way inside a cell in this animation).
+Besides for sprinting, cells need a source of energy to do all sorts of things - to grow, replicate, repair, transport nutrients in, transport wastes out, and all sorts of other things. Here is one of my favorite examples - this is an animation of a "motor protein" transporting a vesicle across a cell (we are zoomed way inside a cell in this animation).
 
 ![motor protein transporting a vesicle](https://media0.giphy.com/media/lBMLGlDJ0GZnG/giphy.gif?cid=ecf05e47wl6hqlqb8nx3rmkhjo2szulhfwoyzvb3flgqzfsl&rid=giphy.gif)
 
-Simply put, cells need energy or else they wouldn't be able to do much of anything. So where does the energy come from?
+Simply put, cells need energy or else they wouldn't be able to do much of anything. And by extension, the organism (like the cheetah) wouldn't be able to do much of anything (like sprint at 70 mph). So where does the energy come from?
 
 Let's think back to photosynthesis for a second. Plants *transform* energy from light and store it in molecules (in glucose molecules to be exact). But they also need to *use* that energy in order to grow, heal, and everything else that a plant needs to do. Animals eat other things in order to get glucose but they need to transform those molecules into a more usable form if they are to be used for energy.
 
@@ -26,3 +26,5 @@ To recap - only plants do photosynthesis. This allows plants to create glucose m
 I won't be too offended if you only skimmed everything above but make sure to watch this video to help better understand ATP. In the next announcement, I will post videos that go into more depth about cellular respiration.
 
 {% include youtube.html id="23ZzI6WZS28"%}
+
+Note - cellular respiration can happen with other molecules besides glucose, but I've only mentioned glucose here for simplicity.
