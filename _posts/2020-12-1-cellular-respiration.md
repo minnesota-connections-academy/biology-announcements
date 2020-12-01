@@ -15,7 +15,7 @@ Besides for sprinting, cells need a source of energy to do all sorts of things -
 
 Simply put, cells need energy or else they wouldn't be able to do much of anything. And by extension, the organism (like the cheetah) wouldn't be able to do much of anything (like sprint at 70 mph). So where does the energy come from?
 
-Let's think back to photosynthesis for a second. Plants *transform* energy from light and store it in molecules (in glucose molecules to be exact). But they also need to *use* that energy in order to grow, heal, and everything else that a plant needs to do. Animals eat other things in order to get glucose but they need to transform those molecules into a more usable form if they are to be used for energy.
+Let's think back to photosynthesis for a second. Plants *transform* energy from light and store it in molecules (in glucose molecules to be exact). But they also need to *use* that energy in order to grow, heal, and everything else that a plant needs to do. Animals eat other things in order to get glucose but, just like plants, they need to use the energy stored in thsoe molecules in order to do all the things that animals do.
 
 This is where *cellular respiration* comes in. *Cellular respiration* is the process of transforming glucose molecules (and sometimes other molecules) into molecules that the cell can easily use for energy. The most common of these molecules is called adenosine triphosphate - ATP for short. ATP is a little molecule that allows all sorts of reactions to happen in a cell. The little motor protein from above? ATP is what causes its little "feet" to step one in front of the other. 
 
