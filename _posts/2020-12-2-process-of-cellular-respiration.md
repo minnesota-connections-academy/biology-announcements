@@ -8,6 +8,10 @@ image-on: true;
 ---
 Here are two videos that are helpful to better understand cellular respiration:
 
+While watching these videos, consider this guiding question:
+
+> If glucose already stores energy, why do cells need to transform glucose molecules into ATP molecules?
+
 {% include youtube.html id="4Eo7JtRA7lg"%}
 
 <br>
