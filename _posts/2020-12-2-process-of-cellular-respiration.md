@@ -14,6 +14,4 @@ While watching these videos, consider this guiding question:
 
 {% include youtube.html id="4Eo7JtRA7lg"%}
 
-<br>
-
 {% include youtube.html id="00jbG_cfGuQ"%}
