@@ -11,11 +11,13 @@ Let's remind ourselves of the chemical equation for cellular respiration for a q
 
 Notice how oxygen (O<sub>2</sub>) is a reactant. Cellular respiration requires oxygen. Actually, to be more accurate, *aerobic* cellular respiration requires oxygen ("aerobic" means "in the presence of oxygen"). *Anaerobic* respiration does not require oxygen ("anaerobic" is the opposite of "aerobic").
 
-Your red blood cells supply your cells with oxygen molecules. But if you are working out, or going for a run, or dancing vigorously, there is a chance your cells start to run low on oxygen.
+Your red blood cells supply your cells with oxygen molecules. But if you are working out, or going for a run, or dancing vigorously...
 
 ![Dancing vigorously](https://media.giphy.com/media/JJGUejl0pLcRy/giphy.gif)
 
-So cells need a back-up plan when oxygen is in low supply. That's where anaerobic respiration comes in, which by the way, is more commonly known as *fermentation*. Multicellular animals (like us) do fermentation and so other things like bacteria and yeast. Fermentation is famous in particular with yeast because yeast uses the process to turns sugars (glucose) into alchohol.
+there is a chance your cells start to run low on oxygen.
+
+So cells need a back-up plan when oxygen is in low supply. That's where anaerobic respiration comes in, which by the way, is more commonly known as *fermentation*. Multicellular animals (like us) do fermentation and so do other things like bacteria and yeast. Fermentation is famous in particular with yeast because yeast uses the process to turn sugars (glucose) into alchohol.
 
 ![fermentation hero](https://www.amoebasisters.com/uploads/2/1/9/0/21902384/fermentation-hero_orig.png)
 
