@@ -19,7 +19,7 @@ Next question - how many cells did you start off as?
 
 So how do you go from a single cell to trillions of cells? Well, your cells divide and, by doing so, they multiply! Cells divide and multiply? Is this some sort of math riddle?
 
-![Confused gif](http://replygif.net/i/1262.gif)
+![Confused gif](https://media.giphy.com/media/3jN3GziOKUEmI/giphy.gif)
 
 What I mean is, cells grow larger until a certain point where they can't grow any larger, then they *divide* in half. So one cell becomes two. Then those two cells grow until they need to divide and then become four cells. Then those four cells become eight cells. The eight cells become sixteen cells. The sixteen cells become thirty-two cells. After 20 such rounds of division, a single cell has become over 1 million cells! (2<sup>20</sup> = 1,048,576)
 
