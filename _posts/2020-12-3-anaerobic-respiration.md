@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anaerobic Respiration- Unit 3 Lesson 11"
+title: "Anaerobic Respiration - Unit 3 Lesson 11"
 categories: [ ]
 tags: [ Unit 3 Lesson 11]
 image: https://www.amoebasisters.com/uploads/2/1/9/0/21902384/fermentation-hero_orig.png
