@@ -17,7 +17,7 @@ title: Home
 <h4>Here are all of the announcements!</h4>
 <div class="blog-grid-container">
     {% for post in site.posts %}
-        {% unless post.homepage-off %}
+        {% unless post.homepage-off or post.important %}
             {% include postbox.html %}
         {% endunless %}
     {% endfor %}

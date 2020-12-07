@@ -4,7 +4,6 @@ title: "Unit 2 Test Alternative"
 categories: [ Tests ]
 tags: [ Unit 2 Lesson 17]
 image: assets/images/unit-2-test.jpg
-important: true;
 courtesy: https://unsplash.com/photos/lNeIjS1rXus
 ---
 
