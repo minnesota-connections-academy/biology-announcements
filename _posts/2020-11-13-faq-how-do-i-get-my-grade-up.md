@@ -27,7 +27,10 @@ First off, we are very happy that you want to improve your grade, because that m
 4. Are you unhappy with your Unit 2 portfolio (biodiversity lab) score?
    * First, make sure you did the correct assignment. There were two options for this portfolio: [the standard option](https://sweeneyscience.github.io/biology-announcements/biodiversity-portfolio/) and [the alternative option](https://sweeneyscience.github.io/biology-announcements/Unit-2-Alternative-Portfolio-Option/).
    * You can always improve your score. Check [your feedback](https://sweeneyscience.github.io/biology-announcements/how-to-see-feedback/) and make revisions. Then send your updated revision to your teacher as [an attachment in webmail](https://sweeneyscience.github.io/biology-announcements/how-to-send-a-webmail-with-an-attachment/).
-5. Are you unhappy with a Unit Test score?
+5. Are you unhappy with your Unit 3 portfolio (cell size lab) score?
+   * First, make sure you did the correct assignment. The instructions for the assignment are here: [Unit 3 Portfolio](https://sweeneyscience.github.io/biology-announcements/unit-3-portfolio/) along with helpful videos and recordings.
+   * You can always improve your score. Check [your feedback](https://sweeneyscience.github.io/biology-announcements/how-to-see-feedback/) and make revisions. Then send your updated revision to your teacher as [an attachment in webmail](https://sweeneyscience.github.io/biology-announcements/how-to-send-a-webmail-with-an-attachment/).
+6. Are you unhappy with a Unit Test score?
    * Have you followed [the retake instructions?](https://sweeneyscience.github.io/biology-announcements/retake-information/)
 
 This page will be updated throughout the semester. So make sure to check here each time before you ask, "How do I get my grade up?"
