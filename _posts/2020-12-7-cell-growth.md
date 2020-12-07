@@ -3,7 +3,7 @@ layout: post
 title: "Cell Growth - Unit 3 Lesson 13"
 categories: [ ]
 tags: [ Unit 3 Lesson 13 ]
-image:
+image: https://upload.wikimedia.org/wikipedia/commons/1/1e/Zygote1.jpg
 ---
 {% include tooltip-script.html %}
 
