@@ -9,13 +9,13 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/1e/Zygote1.jpg
 
 Question - how many cells is your body made up of?
 
-[Answer](){:data-toggle="tooltip" title="About 32 trillion cells!"} 
+[Hover cursor for answer](){:data-toggle="tooltip" title="About 32 trillion cells!"} 
 
 And that's [not even counting the trillions](https://www.nationalgeographic.com/science/phenomena/2013/10/23/how-many-cells-are-in-your-body/){:target="_blank"} of bacteria cells that live with you
 
 Next question - how many cells did you start off as?
 
-[Answer](){:data-toggle="tooltip" title="One cell!"}
+[Hover cursor for answer](){:data-toggle="tooltip" title="One cell!"}
 
 So how do you go from a single cell to trillions of cells? Well, your cells divide and, by doing so, they multiply! Cells divide and multiply? Is this some sort of math riddle?
 
