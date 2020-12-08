@@ -21,7 +21,7 @@ First off, we are very happy that you want to improve your grade, because that m
    * [Unit Tests](https://sweeneyscience.github.io/biology-announcements/categories#Tests)
    * [Portfolios](https://sweeneyscience.github.io/biology-announcements/categories#Portfolios)
 3. Are you unhappy with a quiz score?
-   * Have you taken the [alternative quiz](https://sweeneyscience.github.io/biology-announcements/categories#Alternative-Quizzes)? The alternative quiz scores could replace the regular Connexus quiz scores.
+   * Have you taken the [alternative quiz](https://sweeneyscience.github.io/biology-announcements/categories#Alternative-Quizzes)? Your alternative quiz scores could replace the regular Connexus quiz scores.
    * Have you done [specific revision options like this](https://sweeneyscience.github.io/biology-announcements/Wolves-the-quintessential-keystone-species/)?
    * Have you followed [the retake instructions?](https://sweeneyscience.github.io/biology-announcements/retake-information/)
 4. Are you unhappy with your Unit 2 portfolio (biodiversity lab) score?
