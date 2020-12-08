@@ -25,7 +25,7 @@ What I mean is, cells grow larger until a certain point where they can't grow an
 
 So by repeatedly dividing in half, they quickly multiply into huge numbers. 
 
-Let's look at a specific example. The single cell that we all started off as is called a zygote. That first cell takes about 24 hours to replicate (divide). The resulting two cells take another 24 hours to divide. So after two days, the zygote has turned into a 4 cell embryo. After one 30 days, the embryo (now called a fetus) will be over 1 billion cells. To be fair, as the embryo is developing, cells start to specialize and some of these specialized cells do not replicate as fast as others. So, in general, cell replication starts to slow down to once every few days as the fetus grows larger. But, by the time the baby is born, it will be made up of over a trillion cells!
+Let's look at a specific example. The single cell that we all started off as is called a zygote. That first cell takes about 24 hours to replicate (divide). The resulting two cells take another 24 hours to divide. So after two days, the zygote has turned into a 4 cell embryo. After 10 days it will be 1024 cells. After 30 days, the embryo (now called a fetus) will be over 1 billion cells. To be fair, as the embryo is developing, cells start to specialize and some of these specialized cells do not replicate as fast as others. So, in general, cell replication starts to slow down to once every few days as the fetus grows larger. But, by the time the baby is born, it will be made up of over a trillion cells!
 
 Here is the question to consider for the day.
 
