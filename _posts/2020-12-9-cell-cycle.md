@@ -12,9 +12,9 @@ Like a car or a furnace, cells can stop working correctly as well. And when cell
 
 The Amoeba Sisters can tell us more about the steps that cells need to go through before they divide. As you watch, think about these question and your response to your notes:
 
-> What are the risk factors that can cause healthy cells to become cancer cells?
+> 1. What are the risk factors that can cause healthy cells to become cancer cells?
 >
-> What are some specific examples of problems that can happen during interphase? And how could these problems lead to uncontrolled cell growth?
+> 2. What are some specific examples of problems that can happen during interphase? And how could these problems lead to uncontrolled cell growth?
 
 {% include youtube.html id="QVCjdNxJreE" %}
 
