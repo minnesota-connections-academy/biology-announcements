@@ -22,4 +22,4 @@ Thanks for reading! Let me know if you have any questions.
 
 {% include jimmy-signature.html %}
 
-Just checking.
+Just checking. Another thing.
