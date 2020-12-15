@@ -7,7 +7,7 @@ Some of you may be encountering this message when you try to do your next lesson
 
 > "You may not view or submit this assessment until you submit all previous assessments."
 
-![cant-submit-message]({{site.baseurl}}/assets/images/cant-submit.jpg)
+![cant-submit-message]({{site.baseurl}}/assets/images/cant-submit.JPG)
 
 There are two reasons why this might be happening.
 
