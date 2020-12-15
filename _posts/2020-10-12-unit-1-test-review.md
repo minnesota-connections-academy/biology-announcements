@@ -18,6 +18,6 @@ Here are couple of other things to consider about the question "How do I improve
 - Keep in mind that I am still working on transferring your grades from the previous course. This likely means that your grade looks somewhat lower than it should.
 - We are very early in the course. Even if you did not do splendidly on your Unit 1 Test, your grade will likely improve as you continue to work through the course. Your Unit 1 Test will not end up counting much towards your final grade.
 
-Thanks for reading! Let me know if you have any questions.
+Thanks for reading! Let me know if you have any questions. 
 
 {% include jimmy-signature.html %}
