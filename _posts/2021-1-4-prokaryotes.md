@@ -8,6 +8,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Staphylococcus_Bacte
 Two videos for these two lessons! Keep in mind these questions as you watch:
 
 > How do bacteria make you ill?
+> 
 > Not all bacteria are bad! What are some important roles that bacteria play in ecosystems and in our bodies?
 
 {% include youtube.html id="qZCanCxo0tI" %}
