@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Biodiversity Portfolio - YOU GOTTA READ THIS!"
+title: "Unit 2 Portfolio - Biodiversity"
 author:
 categories: [Portfolios]
 tags: [Unit 2 Lesson 12]
