@@ -4,7 +4,6 @@ title: "Important! The Unit 3 Portfolio"
 image: assets\images\unit-3-wrong.JPG
 categories: [ Portfolios ]
 tags: [ Unit 3 Lesson 4 ]
-important: true;
 ---
 
 Please make sure you read this before starting your Unit 3 portfolio assignment.
