@@ -28,6 +28,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+  - jemoji
     
 # Archives
 jekyll-archives:
