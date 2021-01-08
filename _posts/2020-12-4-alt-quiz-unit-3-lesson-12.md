@@ -3,7 +3,6 @@ layout: post
 title: "Alternative Quiz - Unit 3 Lesson 12"
 categories: [ Alternative Quizzes ]
 tags: [ Unit 3 - Lesson 12]
-important: true;
 image: https://cdn.pixabay.com/photo/2016/11/30/12/17/cells-1872666_1280.jpg
 ---
 
