@@ -6,7 +6,7 @@ image: "https://www.pbs.org/wgbh/nova/assets/img/posters/how-cells-divide-in.jpg
 important: true;
 ---
 
-Time to show off your creativity and some of what you learned in Biology! To round-up the semester, you will make an animation representing a concept in first semester Biology. :scream 
+Time to show off your creativity and some of what you learned in Biology! To round-up the semester, you will make an animation representing a concept in first semester Biology. :scream:
 
 ## TLDR: 
 
