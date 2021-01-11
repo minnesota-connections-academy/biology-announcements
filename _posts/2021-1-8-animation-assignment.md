@@ -14,7 +14,7 @@ Time to show off your creativity and some of what you learned in Biology! To rou
 * This assignment is optional, but can likely earn you extra credit.
 * Send your submissions to your teacher as an attachment in webmail. Your submission should be a .gif or .mp4 file.
 * Submissions will be shared on the Announcements Page!
-* Read below for more info. Have fun :smile: 
+* Read below for more info. Have fun! :smile: 
 
 ## The Details
 
@@ -48,17 +48,21 @@ For those of you who want to do something more advanced, there are many apps and
 
 * [ABCya Animate](https://www.abcya.com/games/animate) - Easily make animations in an online sandbox app
 * [Animation Desk](https://www.kdanmobile.com/animation-desk) - Has versions for phones and desktop computers.
-* [ScreenToGif](https://www.screentogif.com/) - Record frames on your on computer. The frames get put together into a gif!
+* [ScreenToGif](https://www.screentogif.com/) - Record frames of anything on your computer - sort of like taking a whole bunch of screenshots. The frames get put together into a gif!
 
 If you know of other apps or software that you find useful, let me know!
-
-.gif files are preferred, but you can submit your file as an .mp4 as well. 
 
 ## This assignment is optional
 
 By now you might be wondering, "Wait, do I seriously have to do this?". You do not. But we highly encourage it and you will likely earn extra credit for doing so. Plus it's fun!
 
 Mr. Sweeney will share everyone's completed animations on the Announcements Page.
+
+## How to submit it
+
+Submit your animation by sending it as an attachment in WebMail to your Biology teacher.
+
+.gif files are preferred, but you can submit your file as an .mp4 as well. 
 
 ## Ideas for animations
 
