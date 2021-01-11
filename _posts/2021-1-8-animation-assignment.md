@@ -12,7 +12,7 @@ Time to show off your creativity and some of what you learned in Biology! To rou
 
 * Be as creative and detailed as you'd like.
 * This assignment is optional, but can likely earn you extra credit.
-* Send your submissions to your teacher as an attachment in webmail. Your submission should be a .gif or .mp4 file.
+* Send your submissions to your teacher as an attachment in WebMail. Your submission should be a .gif or .mp4 file.
 * Submissions will be shared on the Announcements Page!
 * Read below for more info. Have fun! :smile: 
 
