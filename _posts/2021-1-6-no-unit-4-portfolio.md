@@ -1,6 +1,5 @@
 ---
 layout: post
-important: true;
 title: "You don't need to do the CDC Epidemiologist Portfolio"
 categories: [ announcements ]
 ---
